@@ -20,7 +20,7 @@ class Mhs:
 
 # Contoh penggunaan:
 if __name__ == "__main__":
-    Mhs = Mhs("jon wick", "1234567")
+    Mhs = Mhs("Luthfiandri Ardanie", "122140089")
     Mhs.tambah_nilai(84)
     Mhs.tambah_nilai(84)
     Mhs.tambah_nilai(85)
